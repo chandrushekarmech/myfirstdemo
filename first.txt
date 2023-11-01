@@ -1,0 +1,3 @@
+int A=120 ;
+int B=150;
+int C=A+B ;
